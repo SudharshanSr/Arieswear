@@ -1,0 +1,19 @@
+{
+  "name": "arieswear",
+  "version": "1.0.0",
+  "description": "This is clothing brand E-commerce website ",
+  "main": "ariesjava.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SudharshanSr/Arieswear.git"
+  },
+  "author": "SudharsanSr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SudharshanSr/Arieswear/issues"
+  },
+  "homepage": "https://github.com/SudharshanSr/Arieswear#readme"
+}
