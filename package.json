@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SudharshanSr/Arieswear/issues"
   },
-  "homepage": "https://github.com/SudharshanSr/Arieswear#readme"
+  "homepage": "https://github.com/SudharshanSr/Arieswear#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
